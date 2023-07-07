@@ -18,6 +18,9 @@
     <ClCompile Include="OneDimensionalArray.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="TwoDimensionalArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Array.md" />
