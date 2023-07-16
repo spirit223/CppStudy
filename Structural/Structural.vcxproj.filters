@@ -15,16 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PointerSize.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="NullPointer.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="WildPointer.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ConstAndPointer.cpp">
+    <ClCompile Include="DefineStruct.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
