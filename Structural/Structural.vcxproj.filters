@@ -18,5 +18,11 @@
     <ClCompile Include="DefineStruct.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="StructArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StructAndPointer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
