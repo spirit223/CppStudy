@@ -27,5 +27,17 @@
     <ClCompile Include="ConstAndPointer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ReverseString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SubString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleteTarget.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TypeChange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
