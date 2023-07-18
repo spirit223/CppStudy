@@ -24,7 +24,10 @@
     <ClCompile Include="ClassDefintion.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="charArray.cpp">
+    <ClCompile Include="TwoDimensionalArrayAndPointer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="成绩案例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
