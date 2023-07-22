@@ -17,6 +17,7 @@ int main() {
 	{
 		result += days[i];
 	}
+
 	result += date.day;
 	if (date.month > 2)
 	{
@@ -26,7 +27,5 @@ int main() {
 		}
 	}
 	cout << "该日是本年的第" << result << "天" << endl;
-
-
 	return 0;
 }
