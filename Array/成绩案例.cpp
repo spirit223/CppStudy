@@ -2,8 +2,6 @@
 #include<string>
 using namespace std;
 
-
-
 int main() {
 	int scores[][3] = {
 		{100, 100, 100},
