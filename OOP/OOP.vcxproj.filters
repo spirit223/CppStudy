@@ -59,5 +59,14 @@
     <ClCompile Include="13ConstMethod.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="14GlobalFriend.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15ClassBeFriend.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16ObjectFunctionBeFriend.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
