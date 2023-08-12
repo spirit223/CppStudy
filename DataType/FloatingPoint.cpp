@@ -3,7 +3,9 @@ using namespace std;
 
 int main() {
 
-	float f1 = 3.1415926f;	
+	// 单精度浮点型
+	float f1 = 113.1415926f;
+	// 双精度浮点型
 	double d1 = 3.1415926;
 
 	cout << "f1 = " << f1 << endl;		// 3.14159
