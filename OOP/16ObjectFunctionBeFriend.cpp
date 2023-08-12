@@ -44,7 +44,6 @@ void GoodGay::visit2() {
 	//cout << "visit1 正在访问building中的: " << this->building->bedroom << endl;
 }
 
-
 int main() {
 
 	GoodGay gg;
