@@ -68,5 +68,8 @@
     <ClCompile Include="16ObjectFunctionBeFriend.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="17OperatorOverload.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
