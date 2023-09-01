@@ -43,6 +43,7 @@ int main() {
 		if (is_repeat == false)
 		{
 			cout << i << endl;
+			break;
 		}
 	}
 
