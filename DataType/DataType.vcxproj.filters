@@ -36,6 +36,9 @@
     <ClCompile Include="change.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="WhichType.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="DataType.md" />
